@@ -1,3 +1,5 @@
 <?php // login php
 $hn = 'localhost';
-$db = ''
+$db = 'publications';
+$un = 'root';
+$pw = 'nusha99';
