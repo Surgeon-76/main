@@ -25,7 +25,7 @@ echo "<tr>";
 for ($k = 0 ; $k < 4 ; ++$k) echo "<td>$row[$k]</td>";
 echo "</tr>";
 }
-echo>
+echo
 "</table>";
 
 /*$result = $conn->query($query);
